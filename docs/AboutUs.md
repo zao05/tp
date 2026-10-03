@@ -9,51 +9,49 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Lim Qi Zao
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/zao05.png" width="200px">
 
 [[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
+[[github](https://github.com/zao05)]
 [[portfolio](team/johndoe.md)]
 
-* Role: Project Advisor
+* Role: TBA
 
-### Jane Doe
+### Jingyu Shi
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/jingyucodes.png" width="200px">
 
-[[github](http://github.com/johndoe)]
+[[github](https://github.com/jingyucodes)]
+
+* Role: TBA
+* Responsibilities: TBA
+
+### Khor Kai Shean
+
+<img src="images/kks070206.png" width="200px">
+
+[[github](http://github.com/kks070206)] [[portfolio](team/johndoe.md)]
+
+* Role: TBA
+* Responsibilities: TBA
+
+### Joel Rhys
+
+<img src="images/antelyuu.png" width="200px">
+
+[[github](http://github.com/Antelyuu)]
 [[portfolio](team/johndoe.md)]
 
-* Role: Team Lead
-* Responsibilities: UI
+* Role: TBA
+* Responsibilities: TBA
 
-### Johnny Doe
+### Toh Qi Zhang
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/qztoh.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](https://github.com/qztoh)]
 
-* Role: Developer
-* Responsibilities: Data
-
-### Jean Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Developer
-* Responsibilities: Dev Ops + Threading
-
-### James Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Developer
-* Responsibilities: UI
+* Role: TBA
+* Responsibilities: TBA
